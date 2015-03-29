@@ -8,6 +8,7 @@ License:        GPL
 URL:            http://rtv.github.com/Stage
 Source0:        %{name}-%{version}.tar.gz
 
+Requires:       fltk-devel
 Requires:       gtk2-devel
 Requires:       libjpeg-turbo-devel
 Requires:       mesa-libGL-devel
