@@ -36,6 +36,7 @@
 
   <run_depend>catkin</run_depend>
   <run_depend>gtk2</run_depend>
+  <run_depend>libfltk-dev</run_depend>
   <run_depend>libjpeg</run_depend>
   <run_depend>opengl</run_depend>
 
